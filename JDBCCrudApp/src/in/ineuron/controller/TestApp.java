@@ -10,7 +10,7 @@ import in.ineuron.service.IStudentService;
 import in.ineuron.servicefactory.StudentServiceFactory;
 
 //controller logic
-public class TestApp {
+public class TestApp{
 
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
